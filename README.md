@@ -31,7 +31,7 @@
 
 Green bars show total quantity sold, blue line shows average price per product.
 
-![Quantity vs Price](images/quantity_vs_price.png)
+![Quantity vs Price](Quantity vs Price.png)
 
 ---
 
