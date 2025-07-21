@@ -54,6 +54,17 @@ This chart shows which products sell most and their average prices.
 
 ---
 
+### 📊 Column Chart Code
+
+![Column Chart](ColumnCode.png)
+
+---
+
+### 📈 Line Chart Code
+
+![Line Chart](LineChartCode.png)
+
+
 ## 🚀 How to Run
 
 1. Clone the repository:
