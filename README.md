@@ -25,13 +25,14 @@
 
 ---
 
-## 📈 Example Visuals
+## 📈 Example Visual
 
-### 🔹 Quantity Ordered vs. Average Price
+### 📊 Quantity Ordered vs. Average Price per Product
 
-Green bars show total quantity sold, blue line shows average price per product.
+This chart shows which products sell most and their average prices.
 
-![Quantity vs Price](Quantity vs Price.png)
+![Quantity vs Price](Quantity%20vs%20Price.png)
+
 
 ---
 
